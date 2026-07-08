@@ -9,7 +9,7 @@ Features
 - Secure: JWT-based authentication and Bcrypt password hashing.
 
 Tech Stack
-- Frontend: React.js,CSS.
+- Frontend: React.js,CSS and Bootstrap.
 - Backend: Node.js, Express.js.
 - Database: MySQL.
 
